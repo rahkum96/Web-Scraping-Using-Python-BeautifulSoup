@@ -31,7 +31,7 @@ Specification
 
   Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
-- install NLTK by using `pip install nltk` in command line prompt/ anconda  i've you haven't.
+- install BautifulSoup by using `pip install beautifulsoup4` in command line prompt/ anconda  i've you haven't.
 
 ## Packages used:
 ```
