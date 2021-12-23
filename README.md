@@ -32,10 +32,11 @@ Install Jupyter here i've you haven't.
 
 - install BeautifulSoup by using pip install bs4 in command line prompt/ anconda i've you haven't.
 
-Packages used:
+## Packages used:
 
 from bs4 import BeautifulSoup
 import requests
+from urllib.parse import urljoin
+import time
 import pandas as pd
-
 
