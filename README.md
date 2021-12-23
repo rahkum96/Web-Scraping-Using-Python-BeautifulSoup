@@ -12,6 +12,7 @@ Keep-alive and HTTP connection pooling are 100% automatic.
 
 ## Documentation
 Link-> https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
 Link-> http://docs.python-requests.org/en/master/
 
 ## Workflow
@@ -33,10 +34,12 @@ Install Jupyter here i've you haven't.
 - install BeautifulSoup by using pip install bs4 in command line prompt/ anconda i've you haven't.
 
 ## Packages used:
+- from bs4 import BeautifulSoup
+- import requests
+- import pandas as pd
 
-from bs4 import BeautifulSoup
-import requests
-from urllib.parse import urljoin
-import time
-import pandas as pd
+
+
+
+
 
