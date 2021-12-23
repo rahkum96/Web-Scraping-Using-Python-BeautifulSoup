@@ -27,17 +27,18 @@ Link-> http://docs.python-requests.org/en/master/
 Specification
 
 ## Usage
-- Just run jupyter notebook in terminal and it will run in your browser.
+- Just run `jupyter notebook` in terminal and it will run in your browser.
 
-Install Jupyter here i've you haven't.
+  Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
 
-- install BeautifulSoup by using pip install bs4 in command line prompt/ anconda i've you haven't.
+- install NLTK by using `pip install nltk` in command line prompt/ anconda  i've you haven't.
 
 ## Packages used:
+```
 - from bs4 import BeautifulSoup
 - import requests
 - import pandas as pd
-
+```
 
 
 
