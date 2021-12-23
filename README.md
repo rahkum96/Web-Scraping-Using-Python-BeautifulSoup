@@ -40,7 +40,8 @@ Specification
 - import pandas as pd
 ```
 
-
+## Contributing
+Pull requests are always welcome. For major changes, please contact me on my LinkedIn account https://www.linkedin.com/in/rahulsisodia06/
 
 
 
