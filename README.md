@@ -1,5 +1,5 @@
 # Web-Scraping-Using-Python-BeautifulSoup
-Scraping data from web using python library BeautifulSoup and requests.
+Scraping data from web using python library BeautifulSoup and requests. 
 ## BeautifulSoup
 Beautiful Soup is a Python library for pulling data out of HTML and XML files.
 It works with your favorite parser to provide idiomatic ways of navigating, searching, and modifying the parse tree.
